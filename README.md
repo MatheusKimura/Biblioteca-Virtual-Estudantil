@@ -1,16 +1,11 @@
 # tccapp
 
-A new Flutter project.
+## PROJETO DE FINALIZAÇÃO DE CURSO
 
-## Getting Started
+## BIBLIOTECA ESTUDANTIL VIRTUAL
 
-This project is a starting point for a Flutter application.
+### AUTOR MATHEUS HENRIQUE SCALIZA KIMURA SANTOS
 
-A few resources to get you started if this is your first Flutter project:
+#### APP CRIADO COM FLUTTER PROJECT DESENVOLVIDO PELO FRAMEWORK INTELLIJ E EXECUTADO COMO TESTE NO ANDROID STUDIO
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### CASO QUEIRA BAIXAR O PROJETO PARA AVALIAÇÃO ESTAREI DISPONIBILIZANDO ELE NO GOOGLE DRIVE https://drive.google.com/drive/folders/1QrwLZwy7lwQuwMNzr37uMbJW0XXzofQu?usp=sharing
