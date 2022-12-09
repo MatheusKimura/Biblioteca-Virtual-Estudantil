@@ -15,10 +15,10 @@ conteúdos educacionais dentro de aplicativos móveis.
 Visto isso, o projeto apresenta o objetivo de desenvolver uma aplicação a fim
 de anexar, olhar e compartilhar uma variedade de documentos gratuitos para estudos
 em quaisquer áreas de conhecimento.
-1.1.1 OBJETIVO GERAL
+## 1.1.1 OBJETIVO GERAL
 • Disponibilizar uma biblioteca virtual gratuita para professores e alunos
 de diferentes escolas e universidades.
-1.1.2 OBJETIVOS ESPECÍFICOS
+##1.1.2 OBJETIVOS ESPECÍFICOS
 • O objetivo central do projeto é poder compartilhar o conhecimento
 gratuito de professores para outras escolas e outros alunos através de
 uma biblioteca virtual.
@@ -27,7 +27,7 @@ uma biblioteca virtual.
 • Por meio da engenharia manter a aplicação funcionando.
 .
 2
-1.2 JUSTIFICATIVA
+##1.2 JUSTIFICATIVA
 A biblioteca virtual estudantil terá a capacidade de poder armazenar conteúdos
 revisados de professores e alunos.
 Nesse mesmo espaço a biblioteca virtual ela propõem a livre interação com
